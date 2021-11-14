@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    border: none;
+}
+
+/* première div */
+.firstDiv {
+    display: flex;
+
+
+}
+
+.firstDiv button {
+    margin: 10px;
+}
+
+.butt-w {
+    text-transform: uppercase;
+    
+ 
+}
+
+.butt-r {
+    text-transform: uppercase;
+    
+
+}
+
+.butt-g {
+    text-transform: uppercase;
+
+}
+
+.butt-b {
+    text-transform: uppercase;
+
+}
+
+.butt-border {
+    border: solid 2px black;
+    width: 80px;
+    height: 50px;
+
+}
+
+.butt-point {
+    border: 3px black dashed;
+    width: 80px;
+    height: 50px;
+
+}
+
+.point-butt {
+    border: 1px black dashed;
+    width: 80px;
+    height: 50px;
+
+
+}
+
+.bord-all {
+    color: red;
+    border-bottom: 3px solid black;
+    border-left: black 3px solid;
+    border-right: black 3px solid;
+}
+
+.top-bord {
+    border-top: 3px solid black;
+    /* border-bottom: 3px dashed black;
+    border-left: black 3px dashed;
+    border-right: black 3px dashed; */
+
+}
+
+.bord-red {
+    border-top: 10px red solid ;
+
+}
+
+
+/* deuxième div */
+.secondDiv {
+    display: flex;
+}
+
+.secondDiv button {
+    margin: 20px;
+}
+
+
+
+.num-all {
+    border: 3px solid black;
+    margin: 10px;
+    
+
+}
+
+.num-top {
+    border-top: black 3px solid;
+    margin: 10px;
+
+}
+
+.num-right {
+    border-right: black 3px solid;
+    margin: 10px;
+
+
+}
+
+.num-down {
+    border-bottom: black 3px solid;
+    margin: 10px;
+
+}
+
+.num-left {
+    border-left: black 3px solid;
+    margin: 10px;
+
+}
+
+
+/* troisième div */
+.thirdDiv {
+    display: flex;
+}
+
+.thirdDiv button {
+    margin: 10px;
+
+}
+
+.bord-rad {
+    border-radius: 10px;
+    border: solid 3px black;
+    margin: 10px;
+    
+
+}
+
+.left-rad {
+    border-top: solid 3px black;
+    border-top-left-radius: 15px;
+    border-left: solid 3px black;
+    margin: 10px;
+
+}
+
+.right-rad {
+    border-top: solid 3px black;
+    border-top-right-radius: 15px;
+    border-right: black solid 3px;
+    margin: 10px;
+
+}
+
+.right-down {
+    border-bottom: 3px solid black;
+    border-bottom-right-radius: 15px;
+    border-right: black solid 3px;
+    margin: 10px;
+
+}
+
+.left-down {
+    border-bottom: 3px solid black;
+    border-bottom-left-radius: 15px;
+    border-left: black solid 3px;
+    margin: 10px;
+
+}
+
+
+/* mon grand rectangle */
+
+.rect-div {
+    width: 400px;
+    height: 200px;
+    background-color: rgb(200, 200, 207);
+
+    
+
+}
+
+.bord-black{
+    background-color: black;
+   
+
+
+}
+
+.input-1{
+    color: black;
+    
+}
+
